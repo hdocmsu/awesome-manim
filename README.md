@@ -80,6 +80,12 @@
 - Dan4Life
   - [Youtube](https://www.youtube.com/@dan4life)
   - [Github](https://github.com/Dan4Life)
+- Donald Shenaj
+  - [YouTube](https://www.youtube.com/@donaldshenaj)
+  - [Website](http://donaldssh.github.io/)
+  - [GitHub](https://github.com/donaldssh)
+  - [X](https://x.com/DonaldShenaj/)
+  - [Bluesky](https://bsky.app/profile/donaldshenaj.bsky.social)
 - DoRing
   - [Youtube](https://www.youtube.com/@DoesRing)
 - Edward Mukan
