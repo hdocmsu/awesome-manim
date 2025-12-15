@@ -131,6 +131,9 @@
   - [GitHub](https://github.com/mashaan14/manim)
   - [Website](https://mashaan14.github.io/mashaan/manim.html)
   - [YouTube](https://www.youtube.com/@mashaan14)
+- Mashup
+  - [Youtube](https://www.youtube.com/channel/UCyGGQtjE62XvZbLY2iI8YMg)
+  - [GitHub](https://github.com/anasamrouche/Mashup)
 - Mate con Choripán (Spanish)
   - [Youtube](https://www.youtube.com/@mate_con_choripan)
   - [Instagram](https://www.instagram.com/mate_con_choripan/)
