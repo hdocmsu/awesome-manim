@@ -5,10 +5,10 @@
 </div>
 
 ## Creators
--KaTuripu
-  - [YouTube](https://www.youtube.com/@KaTuripu)
-  - [Instagram](https://www.instagram.com/KaTuriipu)
-  - [TikTok](http://tiktok.com/@katuripu)
+  - KaTuripu
+    - [YouTube](https://www.youtube.com/@KaTuripu)
+    - [Instagram](https://www.instagram.com/KaTuriipu)
+    - [TikTok](http://tiktok.com/@katuripu)
 - LolloSTEM
   - [YouTube](https://www.youtube.com/@LolloSTEM)
 - Act of Learning
