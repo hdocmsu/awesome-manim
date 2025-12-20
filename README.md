@@ -104,6 +104,10 @@
   - [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
+- KaTuripu
+  - [YouTube](https://www.youtube.com/@KaTuripu)
+  - [Instagram](https://www.instagram.com/KaTuriipu)
+  - [TikTok](http://tiktok.com/@katuripu)
 - Kevin Lubick
   - [YouTube](https://www.youtube.com/channel/UCAki4c6w4tJTZFZ6iIhgK5g)
 - kilacoda
