@@ -48,13 +48,6 @@
   - [YouTube](https://www.youtube.com/@brodmann-38)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
-- Codientify
-  - [Youtube](https://www.youtube.com/@codientify)
-- CodingWithMagga (German)
-  - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
-  - [Website](https://codingwithmagga.com/)
-- CS with Terry
-  - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
 - Chilao (痴佬)
   - [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
   - [Bilibili](https://space.bilibili.com/289813724)
@@ -70,6 +63,8 @@
   - [Youtube](https://www.youtube.com/@code-crash-cry)
 - Code Sorcery
   - [YouTube](https://www.youtube.com/@codesorcery-u9x)
+- Codientify
+  - [Youtube](https://www.youtube.com/@codientify)
 - CodingWithMagga (German)
   - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
   - [Website](https://codingwithmagga.com/)
@@ -155,12 +150,12 @@
   - [YouTube](https://www.youtube.com/@manim.mathwizards)
 - MathWorksWorks
   - [YouTube](https://www.youtube.com/channel/UCW_g9NyCVbS3kx7ZJ-qEu8Q)
-- Matthias Wittfogel
-  - [YouTube](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ)
-  - [GitHub](https://github.com/matthiasmitwittfogel/mastermathematics)
 - mattbatwings
   - [YouTube](https://www.youtube.com/@Mattbatwings)
   - [Patreon](https://www.patreon.com/mattbatwings)
+- Matthias Wittfogel
+  - [YouTube](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ)
+  - [GitHub](https://github.com/matthiasmitwittfogel/mastermathematics)
 - MemLabs
   - [Youtube](https://www.youtube.com/@memlabs-research)
 - Micro Visual Proofs (MVP)
