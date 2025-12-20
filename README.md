@@ -5,12 +5,6 @@
 </div>
 
 ## Creators
-  - KaTuripu
-    - [YouTube](https://www.youtube.com/@KaTuripu)
-    - [Instagram](https://www.instagram.com/KaTuriipu)
-    - [TikTok](http://tiktok.com/@katuripu)
-- LolloSTEM
-  - [YouTube](https://www.youtube.com/@LolloSTEM)
 - Act of Learning
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
@@ -110,6 +104,10 @@
   - [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
+- KaTuripu
+  - [YouTube](https://www.youtube.com/@KaTuripu)
+  - [Instagram](https://www.instagram.com/KaTuriipu)
+  - [TikTok](http://tiktok.com/@katuripu)
 - Kevin Lubick
   - [YouTube](https://www.youtube.com/channel/UCAki4c6w4tJTZFZ6iIhgK5g)
 - kilacoda
@@ -128,6 +126,8 @@
   - [YouTube](https://www.youtube.com/channel/UCbinG0Q-7SXQgt_pU82AYbA)
 - Lines That Connect
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
+- LolloSTEM
+  - [YouTube](https://www.youtube.com/@LolloSTEM)
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
