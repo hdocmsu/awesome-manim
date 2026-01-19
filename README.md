@@ -26,7 +26,7 @@
   - [Reddit](https://www.reddit.com/user/aljabrak)
 - Amit KD (LeastAction)
   - [YouTube](https://www.youtube.com/@Least.Action)
-- Art of MRI Physics (AoMP)
+- AoMP: Art of MRI Physics
   - [YouTube](https://www.youtube.com/@hdoMRIphysics)
   - [Substack Newsletter](https://hdomriphysics.substack.com/about)
   - [Website](https://hdocmsu.github.io/)
